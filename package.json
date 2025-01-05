@@ -5,7 +5,7 @@
   "engines": {
     "node": "22.7.0"
   },
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@10.0.0-rc.3+sha512.5be0426818bc14eedfa404e2d64e10acdb5073c72dd5b78eb0b7d16ad743e817ceda0cb9309a05137da2eda405f3423899fd89217ff2d7f50c79758176cef6cc",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
